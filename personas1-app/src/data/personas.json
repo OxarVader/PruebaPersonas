@@ -1,0 +1,19 @@
+{
+    "personas": [
+      {
+        "matricula": "1",
+        "nombre": "Hugo",
+        "fechanacimiento": "02/05/1987"
+      },
+      {
+        "matricula": "2",
+        "nombre": "Paco",
+        "fechanacimiento": "04/04/1988"
+      },
+      {
+        "matricula": "3",
+        "nombre": "Luis",
+        "fechanacimiento": "05/04/1999"
+      }
+    ]
+  }
